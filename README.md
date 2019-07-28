@@ -1,4 +1,5 @@
 # Innoplexus-Online-Hiring-Hackathon-Sentiment-Analysis
+![image](https://user-images.githubusercontent.com/37707687/62003677-4119b700-b138-11e9-89ad-60725dc3f6f8.png)
 
 ## Problem Statement
 Sentiment Analysis for drugs/medicines
@@ -26,7 +27,7 @@ Contains the labelled texts with sentiment values for a given drug
 test.csv contains texts with drug names for which the participants are expected to predict the correct sentiment
 
 ### sample_submission.csv
-sample_submission.csv contains the submission format for the predictions against the test set. NA single csv needs to be submitted as a solution. The submission file must contain only 2 columns <unique_hash>,<sentiment>.
+sample_submission.csv contains the submission format for the predictions against the test set. NA single csv needs to be submitted as a solution. The submission file must contain only 2 columns __unique_hash__, __sentiment__
  
 ## Evaluation Metric
 The metric used for evaluating the performance of the classification model would be macro F1-Score.
