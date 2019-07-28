@@ -36,3 +36,7 @@ The metric used for evaluating the performance of the classification model would
 The texts in the test data are further randomly divided into Public (40%) and Private (60%) data.
 Your initial responses will be checked and scored on the Public data.
 The final rankings would be based on your private score which will be published once the competition is over.
+
+__Public Leaderboard: 74 (Score: 0.4850616849)__
+
+__Private Leaderboard: 29 (Score: 0.5230949840)__
